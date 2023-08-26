@@ -1,0 +1,13 @@
+{
+  "name": "node-starter",
+  "type": "module",
+  "version": "0.0.0",
+  "dependencies": {
+    "@js-temporal/polyfill": "0.4.0",
+    "temporal-interval": "0.0.7"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
